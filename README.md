@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suhyunchon
-- 👀 I’m interested in technical writing, UX writing and UX design.
+- 👀 I’m interested in technical writing, UX writing and cryptocurrency.
 - 🌱 I’m currently learning UX things and SQL.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email me suhyun.haley.chon@gmail.com
 
 <!---
